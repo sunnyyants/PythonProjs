@@ -1,0 +1,6 @@
+card_image = "http://commondatastorage.googleapis.com/codeskulptor-assets/cards.jfitz.png"
+card_back = "http://commondatastorage.googleapis.com/codeskulptor-assets/card_back.png"
+
+import pygame, sys
+from pygame.locals import *
+pygame.init()
